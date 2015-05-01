@@ -1,0 +1,11 @@
+c:\users\亮磨\documents\visual studio 2013\Projects\BrainTrainingApp\BrainTrainingApp\bin\Debug\BrainTrainingApp.exe.config
+C:\Users\亮磨\Documents\Visual Studio 2013\Projects\BrainTrainingApp\BrainTrainingApp\obj\Debug\BrainTrainingApp.csprojResolveAssemblyReference.cache
+C:\Users\亮磨\Documents\Visual Studio 2013\Projects\BrainTrainingApp\BrainTrainingApp\obj\Debug\BrainTrainingApp.Form1.resources
+C:\Users\亮磨\Documents\Visual Studio 2013\Projects\BrainTrainingApp\BrainTrainingApp\obj\Debug\BrainTrainingApp.Properties.Resources.resources
+C:\Users\亮磨\Documents\Visual Studio 2013\Projects\BrainTrainingApp\BrainTrainingApp\obj\Debug\BrainTrainingApp.csproj.GenerateResource.Cache
+C:\Users\亮磨\Documents\Visual Studio 2013\Projects\BrainTrainingApp\BrainTrainingApp\bin\Debug\BrainTrainingApp.exe
+C:\Users\亮磨\Documents\Visual Studio 2013\Projects\BrainTrainingApp\BrainTrainingApp\bin\Debug\BrainTrainingApp.pdb
+C:\Users\亮磨\Documents\Visual Studio 2013\Projects\BrainTrainingApp\BrainTrainingApp\obj\Debug\BrainTrainingApp.exe
+C:\Users\亮磨\Documents\Visual Studio 2013\Projects\BrainTrainingApp\BrainTrainingApp\obj\Debug\BrainTrainingApp.pdb
+C:\Users\亮磨\Documents\Visual Studio 2013\Projects\BrainTrainingApp\BrainTrainingApp\bin\Debug\Microsoft.Kinect.dll
+C:\Users\亮磨\Documents\Visual Studio 2013\Projects\BrainTrainingApp\BrainTrainingApp\bin\Debug\Microsoft.Kinect.xml
